@@ -4,6 +4,10 @@
 
 Machine learning project focused on credit risk classification. The objective was to develop a predictive model capable of classifying credit risk based on the available dataset.
 
+## Context
+
+Developed as part of an academic project at the Federal University of Rio de Janeiro (UFRJ), within the Electronics and Computer Engineering undergraduate program.
+
 ## Methodology
 
 - Exploratory Data Analysis (EDA)
