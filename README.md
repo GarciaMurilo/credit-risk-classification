@@ -18,7 +18,7 @@ Developed as part of an academic project at the Federal University of Rio de Jan
 
 ## Results
 
-Include the evaluation metrics and the final model performance here.
+The project includes the model predictions generated from the test dataset, organized in a submission file.
 
 ## Technologies
 
@@ -30,9 +30,17 @@ Include the evaluation metrics and the final model performance here.
 
 ## Repository Structure
 
-- `notebooks/`: data analysis, experiments and model development.
-- `src/`: model implementation.
-- `results/`: evaluation outputs.
+```text
+credit-risk-classification/
+├── data/
+│   ├── train.csv
+│   └── test.csv
+├── notebooks/
+│   └── credit_risk_classification.ipynb
+├── results/
+│   └── submission.csv
+└── README.md
+```
 
 ## Author
 
